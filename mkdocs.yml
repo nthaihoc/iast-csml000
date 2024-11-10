@@ -1,12 +1,18 @@
 site_name: CSML000 Machine Learning Course (IAST-2024)
 
 theme:
+  font:
+    code: Roboto Mono
   name: material
   icon:
     logo: material/cube-outline
+    repo: fontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+
+
+repo_url: https://github.com/squidfunk/mkdocs-material
 
 extra_css:
   - stylesheets/extra.css
@@ -26,7 +32,7 @@ markdown_extensions:
 plugins:
   - macros
 
-copyright: Copyright &copy; 2023 Minhyuk Sung
+copyright: Copyright by Thai Hoc Nguyen
 
 nav:
   - Home: index.md
