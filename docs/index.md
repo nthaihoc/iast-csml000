@@ -41,6 +41,8 @@ This course provides knowledge on artificial intelligence, with a particular foc
 
 ## Schedule
 
-| Lecture | Topic | Description | Materials |
-| :----: | :----: | :----: | :----: |
-| 01 | Introduction to Artificial Intelligence and Machine Learning Basic Concepts | **Artificial Intelligence** | [**Lecture Notes**]({{links.lec01}}){:target="_blank"}<br>[**Code**]({{links.code01}}){:target="blank"}|
+| Lecture | Topic | Materials |
+| :----: | :----: | :----: |
+| 01 | Introduction to Artificial Intelligence and Machine Learning Basic Concepts | [**Lecture Notes**]({{links.lec01}}){:target="_blank"} [**Code**]({{links.code01}}){:target="_blank"}|
+
+
