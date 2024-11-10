@@ -1,8 +1,7 @@
 site_name: CSML000 Machine Learning Course
 
 theme:
-  font:
-    text: Roboto 
+  font: false
   name: material
   icon:
     logo: material/cube-outline
