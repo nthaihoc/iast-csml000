@@ -1,8 +1,8 @@
-site_name: CSML000 Machine Learning Course (IAST-2024)
+site_name: CSML000 Machine Learning Course
 
 theme:
   font:
-    code: Roboto Mono
+    text: Roboto 
   name: material
   icon:
     logo: material/cube-outline
@@ -12,7 +12,7 @@ theme:
     - navigation.tabs.sticky
 
 
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.com/nthaihoc/iast-csml000
 
 extra_css:
   - stylesheets/extra.css
@@ -57,8 +57,5 @@ extra:
     provider: google
     property: G-S3GEPQ874N
   links:
-    paper_list: https://docs.google.com/spreadsheets/d/1i-C6Ao4mrXnVqj0AKnTfS0AB6hd8SpEuB3JI1JZgKbI/edit?usp=sharing
-    pitch_videos: https://youtu.be/gW9MiQJSfzg
-    poster_template: https://kaistackr-my.sharepoint.com/:p:/g/personal/mhsung_kaist_ac_kr/EaAxelUapjBMrWQ1qcUwsAIBo24eSmN2QvuuN3y0Y3jc7A?e=sl7v4l
     lec01: 
-    code01: 
+    code01:
