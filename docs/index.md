@@ -41,7 +41,7 @@ algorithms for regression (like Linear and Lasso Regression) and classification 
 
 
 ## V. Course Staff
-**Instructor**: [Thai Hoc Nguyen](https://nthaihoc.github.io/){:target="_blank"} ([thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com))
+**Instructor**: [Thai Hoc Nguyen](){:target="_blank"} ([thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com))
 
 
 ## VI. Schedule
