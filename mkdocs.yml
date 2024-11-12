@@ -57,5 +57,5 @@ extra:
     provider: google
     property: G-S3GEPQ874N
   links:
-    lec01: 
-    code01:
+    lec01: https://colab.research.google.com/drive/1NMgB7E1b9-jDNNoioQsrmQTSRWMxNDSO?usp=sharing
+    code01: https://colab.research.google.com/drive/1NMgB7E1b9-jDNNoioQsrmQTSRWMxNDSO?usp=sharing
