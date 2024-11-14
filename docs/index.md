@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# CSML000: Machine Learning Course 2024
+# CSML000 - Machine Learning Course 2024
 
 <h3><b>
 <a href="http://nthaihoc.github.io/" target="_blank">Thai Hoc Nguyen, </a><a href="https://www.khcnict.kennatech.vn/" target="_blank">IAST - Institute of Applied Science and Technology</a>
@@ -41,7 +41,8 @@ algorithms for regression (like Linear and Lasso Regression) and classification 
 
 
 ## V. Course Staff
-**Instructor**: [Thai Hoc Nguyen](){:target="_blank"} ([thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com))
+**Instructor**: [Thai Hoc Nguyen](){:target="_blank"} 
+- **Email**: [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com)
 
 
 ## VI. Schedule
