@@ -40,9 +40,12 @@ algorithms for regression (like Linear and Lasso Regression) and classification 
 - Have hands-on experience working with popular machine learning libraries, including TensorFlow, Keras, and scikit-learn, to implement and experiment with various algorithms.
 
 
+
 ## V. Course Staff
-**Instructor**: [Thai Hoc Nguyen](){:target="_blank"} 
+**Instructor**: [Thai Hoc Nguyen](){:target="_blank"}
+
 - **Email**: [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com)
+- **Mobile**: [0834265442]()
 
 
 ## VI. Schedule
