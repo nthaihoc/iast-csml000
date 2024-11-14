@@ -36,7 +36,7 @@ copyright: Copyright by Thai Hoc Nguyen
 
 nav:
   - Home: index.md
-   - Resource: programming-assignments.md 
+   - Resource: programming-assignments.md  
    - Datasets: paper-review.md
    - Project:
      - Project Team Matching: project-team-matching.md
