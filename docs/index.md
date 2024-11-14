@@ -48,6 +48,5 @@ algorithms for regression (like Linear and Lasso Regression) and classification 
 
 | Lecture | Topic | Materials |
 | :----: | :----: | :----: |
-| 01 | Introduction to Artificial Intelligence and Machine Learning Basic Concepts | [**Lecture Notes**]({{links.lec01}}){:target="_blank"}<br>[**Code**]({{links.code01}}){:target="_blank"}|
-
-
+| 01 | Introduction to Artificial Intelligence and Machine Learning Basic Concepts | [**None**]()|
+| 02 | Regression Analysis and Regression Algorithm | [**Lecture Notes**]({{links.lec02}}){:target="_blank"}<br>[**Code**]({{links.code02}}){:target="_blank"}|

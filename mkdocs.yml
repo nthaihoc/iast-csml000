@@ -57,5 +57,5 @@ extra:
     provider: google
     property: G-S3GEPQ874N
   links:
-    lec01: https://colab.research.google.com/drive/1NMgB7E1b9-jDNNoioQsrmQTSRWMxNDSO?usp=sharing
-    code01: https://colab.research.google.com/drive/1NMgB7E1b9-jDNNoioQsrmQTSRWMxNDSO?usp=sharing
+    lec02: https://drive.google.com/drive/folders/1-pePMyNJuVEXeTV1Nq1zQpGTNm0K3MGo?usp=drive_link
+    code02: https://www.kaggle.com/code/nguyenthaihoc/01-linear-regression-gradient-descent
